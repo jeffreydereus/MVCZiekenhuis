@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../hospital-php/.idea/hospital-php.iml" filepath="$PROJECT_DIR$/../hospital-php/.idea/hospital-php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kalender-php/.idea/kalender-php.iml" filepath="$PROJECT_DIR$/../kalender-php/.idea/kalender-php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ziekenhuis.iml" filepath="$PROJECT_DIR$/.idea/ziekenhuis.iml" />
+    </modules>
+  </component>
+</project>
